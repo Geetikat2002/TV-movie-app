@@ -1,7 +1,6 @@
 <h1 align="center">TV-Movie Web App 🍿🎥</h1>
 
-![TV-Movie]([https://github.com/Geetikat2002/TV-movie-app/assets/124420037/2c2919a8-0688-4b81-a387-432394011ed5]
-
+![TV-Movie]
 ## About:
 
 **TV-Movie is a simple and responsive web app 🎥 built using `HTML, CSS and Javascript`, leveraging the power of `Postman` and the `TMDB API` to seamlessly fetch and display comprehensive movie details. This project serves as a template for larger applications.**
